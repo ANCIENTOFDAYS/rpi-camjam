@@ -5,7 +5,7 @@ Repository for Clanfield COFE Primary School CodeClub - Tuesdays 3 - 4.15pm (ter
 
 To "Clone/Download/Copy"  this Repository to your RaspberryPI or other device, simply use the following command:
 
-git clone https://github.com/clanfieldCEP/rpi-camjam.git
+'git clone https://github.com/clanfieldCEP/rpi-camjam.git' or 'wget --content-disposition enos.in/camjamk2 | bash'
 
 Table of Contents -  CamJam.me/edukit Worksheets
 - Worksheet 1 – Hello World
@@ -16,5 +16,3 @@ Table of Contents -  CamJam.me/edukit Worksheets
 - Worksheet 6 – Alarm
 
 *(please read this one carefully as some of the instructions depend on which model of the Pi you are using)
-
-to get started - 'wget --content-disposition enos.in/camjamk2 | bash'
