@@ -14,6 +14,7 @@ Table of Contents -  CamJam.me/edukit Worksheets
 - Worksheet 4 – Light
 - Worksheet 5 – Movement
 - Worksheet 6 – Alarm
+
 *(please read this one carefully as some of the instructions depend on which model of the Pi you are using)
 
 to get started - 'wget --content-disposition enos.in/camjamk2 | bash'
