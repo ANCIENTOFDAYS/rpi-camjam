@@ -8,16 +8,24 @@ The Afterschool session uses this version (1.4) of scratch http://scratch.mit.ed
 
 Completed scratch files (.sb) can be found in the individual project files and the [assist section] (https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/assist)
 
+<<<<<<< HEAD
 Remember to copy the [resources](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/resources) to a sub-directory under Scratch.
 - Raspberry Pi - save to ~/Documents/Scratch Projects
 - Windows - save to c:\Program Files\Scratch\Media\Resources
+=======
+Remember to copy the [resources](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/resources) to a sub-directory under Scratch ie for windows copy to C:\Program Files\Scratch\Media\Resources
+>>>>>>> 4d669363d26af9d65125bb057e7728cf4118306f
 
 To "Clone/Download/Copy"  this Repository to your RaspberryPI or other device, simply use the following command:
 'git clone https://github.com/clanfieldCEP/CodeClub.git'
 
 #Term 1 - Curriculum
 - 01 [Felix and Herbert](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/01-Felix%20%26%20Herbert)
+<<<<<<< HEAD
 - 02 [Ghostbusters](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/02-Ghostbusters)
+=======
+- 02 [Ghostbusters](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/02%20-%20Ghostbusters)
+>>>>>>> 4d669363d26af9d65125bb057e7728cf4118306f
 - 03 [Fireworks](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/03-Fireworks)
 - 04 [Fruit Machine](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/04-Fruit%20Machine)
 - 05 [Fish Chomp](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/05-Fish%20Chomp)
