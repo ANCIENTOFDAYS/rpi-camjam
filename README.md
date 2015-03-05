@@ -10,9 +10,12 @@ Completed scratch files (.sb) can be found in the individual project files and t
 
 Remember to copy the [resources](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/resources) to a sub-directory under Scratch ie for windows copy to C:\Program Files\Scratch\Media\Resources
 
+To "Clone/Download/Copy"  this Repository to your RaspberryPI or other device, simply use the following command:
+'git clone https://github.com/clanfieldCEP/CodeClub.git'
+
 #Term 1 - Curriculum
 - 01 [Felix and Herbert](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/01-Felix%20%26%20Herbert)
-- 02 Ghostbusters **MISSING**
+- 02 [Ghostbusters](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/02%20-%20Ghostbusters)
 - 03 [Fireworks](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/03-Fireworks)
 - 04 [Fruit Machine](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/04-Fruit%20Machine)
 - 05 [Fish Chomp](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/05-Fish%20Chomp)
@@ -21,13 +24,12 @@ Remember to copy the [resources](https://github.com/clanfieldCEP/CodeClub/tree/m
 - 08 [Paint Box](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/08-Paint%20Box)
 - 09 [Create Your Own Game](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/09-Create%20Your%20Own%20Game)
 
-Christmas Capers
-Flappy Parrot
+[Christmas Capers](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/ChristmasCapers)
 
 #Term 2 - Curriculum
-- 01 Make a Monster
-- 02 Sound Machine
-- 03 Frantic Felix
+- 01 [Make a Monster](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/Term%202/01%20Make%20a%20monster)
+- 02 [Sound Machine](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/Term%202/02%20Sound%20machine)
+- 03 [Frantic Felix](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/Term%202/03%20Frantic%20Felix)
 
 # Raspberry PI
 ==============
