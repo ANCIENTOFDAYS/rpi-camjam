@@ -4,10 +4,12 @@
 #
 # This setup script will create directories, download the PDF worksheets and the Python scripts and set some modprobe parameters
 # this file 'wget --content-disposition enos.in/camjamk2'
-# 
+#
+clear
 sudo mkdir ~/Documents/EduKitSensors
+sudo chown pi:pi ~/Documents/EduKitSensors
 cd ~/Documents/EduKitSensors
-git clone https://github.com/clanfieldCEP/rpi-camjam.git .
+sudo git clone https://github.com/clanfieldCEP/rpi-camjam.git .
 
 # setup pi for Temperature probe - note: if running Pi2 instructions may be different, also this is a one-time activity.
 # see worksheet 3
