@@ -9,7 +9,7 @@ clear
 sudo mkdir ~/Documents/EduKitSensors
 sudo chown pi:pi ~/Documents/EduKitSensors
 cd ~/Documents/EduKitSensors
-sudo git clone https://github.com/clanfieldCEP/rpi-camjam.git .
+git clone https://github.com/clanfieldCEP/rpi-camjam.git .
 
 # setup pi for Temperature probe - note: if running Pi2 instructions may be different, also this is a one-time activity.
 # see worksheet 3
@@ -23,4 +23,4 @@ ls -l
 # sudo apt-get update && sudo apt-get install python-pip
 # sudo pip install twython
 ## sudo pip install ntplin
-## wget .... my time sync script here ...
+## wget https://github.com/soneups/setup-scripts/raw/master/SyncNTP.py
