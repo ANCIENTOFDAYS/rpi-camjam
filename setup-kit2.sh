@@ -18,3 +18,9 @@ sudo modprobe w1-gpio
 sudo modprobe w1-therm
 cd /sys/bus/w1/devices
 ls -l
+
+# uncomment to install twitter support via twython
+# sudo apt-get update && sudo apt-get install python-pip
+# sudo pip install twython
+## sudo pip install ntplin
+## wget .... my time sync script here ...
