@@ -22,5 +22,5 @@ ls -l
 # uncomment to install twitter support via twython
 # sudo apt-get update && sudo apt-get install python-pip
 # sudo pip install twython
-## sudo pip install ntplin
+## sudo pip install ntplib
 ## wget https://github.com/soneups/setup-scripts/raw/master/SyncNTP.py
