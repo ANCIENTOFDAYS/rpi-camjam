@@ -4,6 +4,7 @@
 #
 # This setup script will create directories, download the PDF worksheets and the Python scripts and set some modprobe parameters
 # this file 'wget --content-disposition enos.in/camjamk2'
+# wget enos.in/camjamk2 -O- --content-disposition | sh
 #
 clear
 sudo mkdir ~/Documents/EduKitSensors
